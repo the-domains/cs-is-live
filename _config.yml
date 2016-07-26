@@ -1,0 +1,14 @@
+layout_spectrum: 0.8339810043107718
+typography_spectrum: 0.49405984417535365
+color:
+  brandStrength: 0.9342136613558978
+  lightness: 0.8358744711149484
+  saturation: 0.8345633926801383
+  rhythmicContrast: 0.14753338880836964
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: cs is live
